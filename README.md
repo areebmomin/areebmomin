@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areebmomin
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android, Flutter and KMM 
 - 📫 How to reach me 
       Email: aribmomin111@gmail.com
       LinkedIn: https://www.linkedin.com/in/areeb-momin/
